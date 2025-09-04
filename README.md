@@ -2,8 +2,8 @@
 Analytical and detail-oriented Final-year B.Tech student in Electronics and Computer Science skilled in Python, Java, C, SQL and React. Experienced in developing AI, machine learning, computer vision, and web development projects with strong problem-solving and teamwork abilities.
 
 ***Technical Skills***
-**Programming Languages**: Java, Python, C, JavaScript
-**Web Development Tools**: HTML, CSS, Node.js, React, Tailwind CSS,
+**Programming Languages**: Java, Python, C, JavaScript<br>
+**Web Development Tools**: HTML, CSS, Node.js, React, Tailwind CSS<br>
 **Databases**: SQL
 **Developer Tools**: Git,VS Code, Anaconda Navigator, Microsoft Office, Figma, Canva
 **Python Libraries**: OpenCV, Pandas, NumPy, Matplotlib, Mediapipe, Streamlit
