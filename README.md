@@ -1,12 +1,12 @@
 # 💫 About Me:
 Analytical and detail-oriented Final-year B.Tech student in Electronics and Computer Science skilled in Python, Java, C, SQL and React. Experienced in developing AI, machine learning, computer vision, and web development projects with strong problem-solving and teamwork abilities.
 
-***Technical Skills***
+***Technical Skills***<br>
 **Programming Languages**: Java, Python, C, JavaScript<br>
 **Web Development Tools**: HTML, CSS, Node.js, React, Tailwind CSS<br>
-**Databases**: SQL
-**Developer Tools**: Git,VS Code, Anaconda Navigator, Microsoft Office, Figma, Canva
-**Python Libraries**: OpenCV, Pandas, NumPy, Matplotlib, Mediapipe, Streamlit
+**Databases**: SQL<br>
+**Developer Tools**: Git,VS Code, Anaconda Navigator, Microsoft Office, Figma, Canva<br>
+**Python Libraries**: OpenCV, Pandas, NumPy, Matplotlib, Mediapipe, Streamlit<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-78b776214/) 
