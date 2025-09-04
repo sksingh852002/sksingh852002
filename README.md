@@ -1,6 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on Polishing Myself<br>🌱 I’m currently learning Backend<br>
+Analytical and detail-oriented Final-year B.Tech student in Electronics and Computer Science skilled in Python, Java, C, SQL and React. Experienced in developing AI, machine learning, computer vision, and web development projects with strong problem-solving and teamwork abilities.
 
+***Technical Skills***
+**Programming Languages**: Java, Python, C, JavaScript
+**Web Development Tools**: HTML, CSS, Node.js, React, Tailwind CSS,
+**Databases**: SQL
+**Developer Tools**: Git,VS Code, Anaconda Navigator, Microsoft Office, Figma, Canva
+**Python Libraries**: OpenCV, Pandas, NumPy, Matplotlib, Mediapipe, Streamlit
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-78b776214/) 
